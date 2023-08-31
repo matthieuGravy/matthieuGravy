@@ -4,7 +4,7 @@
 
 Il est possible que je suis haut potentiel en blague nulle, mais je suis surtout très curieux. 
 
-Je dépose bientôt des projets publics :kiss:
+N'hésitez pas à vous servir de mes projets publics (et de me laisser un commentaire ou un liens vers l'évolution 💋) 
 
 
 #### Langages / Frameworks
