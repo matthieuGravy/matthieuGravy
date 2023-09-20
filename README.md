@@ -2,10 +2,14 @@
 [![linkedin](https://img.shields.io/badge/linkedin--lightgrey?style=social&logo=linkedin)](https://www.linkedin.com/in/matthieugravy/)
 
 
-Il est possible que je suis haut potentiel en blague nulle, mais je suis surtout très curieux. 
 
-N'hésitez pas à utiliser mes projets publics (et à me laisser un commentaire ou un lien vers leur évolution 💋)
+Développer web en formation chez BeCode.  
 
+Vous allez certainement trouvé de nouveaux reportories  très prochainement alors, abonnez-vous!
+
+<script type="text/javascript">
+    alert("Follow me");
+</script>
 
 #### Langages / Frameworks
 
