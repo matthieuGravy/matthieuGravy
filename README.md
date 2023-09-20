@@ -1,5 +1,6 @@
 # :wave: Salut, je suis Matthieu 
-[![linkedin](https://img.shields.io/badge/linkedin--lightgrey?style=social&logo=linkedin)](https://www.linkedin.com/in/matthieugravy/)
+[![Linkedin](https://img.shields.io/badge/linkedin--lightgrey?style=social&logo=linkedin)](https://www.linkedin.com/in/matthieugravy/)
+[![My portfolio](https://pommepatate.be/)
 
 
 >Développeur web en formation chez BeCode.  
