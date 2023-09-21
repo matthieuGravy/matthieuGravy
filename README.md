@@ -66,4 +66,4 @@ If I were to share a fear about this training, it would be the challenge of find
 </details>
                                                                    
 
-![git]([https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif](https://media4.giphy.com/media/4Z3DdOZRTcXPa/giphy.gif?cid=ecf05e47jwlfd62gn74qsypu0oykrilpoa2qk8bsu57olstz&ep=v1_gifs_search&rid=giphy.gif&ct=g)https://media4.giphy.com/media/4Z3DdOZRTcXPa/giphy.gif?cid=ecf05e47jwlfd62gn74qsypu0oykrilpoa2qk8bsu57olstz&ep=v1_gifs_search&rid=giphy.gif&ct=g "git")
+<img src="[https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif](https://media4.giphy.com/media/4Z3DdOZRTcXPa/giphy.gif?cid=ecf05e47jwlfd62gn74qsypu0oykrilpoa2qk8bsu57olstz&ep=v1_gifs_search&rid=giphy.gif&ct=g)https://media4.giphy.com/media/4Z3DdOZRTcXPa/giphy.gif?cid=ecf05e47jwlfd62gn74qsypu0oykrilpoa2qk8bsu57olstz&ep=v1_gifs_search&rid=giphy.gif&ct=g"
