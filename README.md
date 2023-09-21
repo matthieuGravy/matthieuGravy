@@ -12,6 +12,8 @@ So, follow me, and don't hesitate to reuse what you find.
 
 > "Never put off until tomorrow what you can do today." - Benjamin Franklin
 
+<br />
+
 > ## Surprising Skills
 > - I make incredibly bad jokes in French, but also in English. For example: Mr. and Mrs. The World have a son, what do they call him? Aroun, arround the world.
 > - I have been very active in the field of sports, and at the ages of 15 and 19, I managed to break two records in long jump and swimming during my high school years.
