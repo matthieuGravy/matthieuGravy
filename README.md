@@ -1,7 +1,7 @@
 # :wave: Hi, I'm Matthieu 
 [![Linkedin](https://img.shields.io/badge/linkedin--lightgrey?style=social&logo=linkedin)](https://www.linkedin.com/in/matthieugravy/)
 
->web developer in training at [chez BeCode](https://becode.org/fr/).   
+>web developer in training at [BeCode](https://becode.org/fr/).   
 
 You will certainly find new reports very soon so, subscribe!
 
