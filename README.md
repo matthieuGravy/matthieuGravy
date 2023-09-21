@@ -14,15 +14,21 @@ So, follow me, and don't hesitate to reuse what you find.
 
 <br />
 
-> ## Surprising Skills
+> ### Surprising Skills
 > - I make incredibly bad jokes in French, but also in English. For example: Mr. and Mrs. The World have a son, what do they call him? Aroun, arround the world.
 > - I have been very active in the field of sports, and at the ages of 15 and 19, I managed to break two records in long jump and swimming during my high school years.
 > - I am a big fan of Walker, Texas Ranger.
 
-> ## The favorite things in this universe
+> ### The favorite things in this universe
 > - On peut toujours créer, inventer et construire.
 >- J'aime la vie de famille, et je crois que c'est l'un des plus beau cadeau. Je partage beaucoup de moments avec mon fils.
 > - 
+
+> ### What I appreciate the most in a group
+> - Cheerfulness
+> - Responsiveness
+> - Cooperation
+
 
 <br />
 
