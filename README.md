@@ -1,5 +1,5 @@
 # :wave: Hi, I'm Matthieu 🇧🇪
-#### _web developer junior in training at <a href="https://becode.org/fr/">BeCode</a>._
+#### _web developer junior in training at <a href="https://becode.org/fr/" target="_blank">BeCode</a>._
 
 [![Linkedin](https://img.shields.io/badge/linkedin--lightgrey?style=social&logo=linkedin)](https://www.linkedin.com/in/matthieugravy/)
 
