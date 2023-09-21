@@ -13,15 +13,25 @@ So, follow me, and don't hesitate to reuse what you find.
 > "Never put off until tomorrow what you can do today." - Benjamin Franklin
 
 ## Surprising Skills
-- Je peux faire des blagues très nulles
+- Je fais des blagues extrêmement nul en français. Mais aussi en Anglais : Monsieur et Madame the world ont un fils, comment l'appellent-ils ? Aroun, arround the world.
+- 
+
+## The favorite things in this universe
+- On peut toujours créer, inventer et construire.
+- J'aime la vie de famille, et je crois que c'est l'un des plus beau cadeau. Je partage beaucoup de moments avec mon fils.
+- 
 
 ## About me
-As a JavaScript enthusiast, I'm keen on enhancing my back-end development skills while continuing to improve my expertise in front-end technologies. My goal is to become a more versatile and well-rounded developer, capable of crafting comprehensive and high-performing solutions, whether on the server or client side.
+As a JavaScript enthusiast, I'm keen on enhancing my back-end development skills while continuing to improve my expertise in front-end technologies. My goal is to become a more versatile and well-rounded developer, capable of crafting comprehensive and high-performing solutions, whether on the server or client side. 
+
+I am convinced that BeCode is the perfect place to develop my skills and gain experience working in groups.
 
 <details>
-  <summary><h2></h2>
+  <summary><h2>More about Skills</h2>
   </summary>
 <h3>Languages ​​/ Frameworks</h3>  
+
+  mettre les img dans un tab
 <img height="20px" src="https://wallpapercave.com/wp/wp5191399.jpg" alt="JS" title="JS"/>&nbsp;&nbsp;
 <img height="20px" src="https://1000marcas.net/wp-content/uploads/2021/06/Sass-Logo-500x313.png" alt="sass" title="sass"/>&nbsp;&nbsp;
 <img height="20px" src="https://i0.wp.com/se-tomo.com/wp/wp-content/uploads/2018/10/Vue.png?resize=1280%2C720&ssl=1" alt="vueJS" title="vueJS"/>&nbsp;&nbsp;
