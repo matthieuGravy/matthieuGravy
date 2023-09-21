@@ -12,10 +12,10 @@ So, follow me, and don't hesitate to reuse what you find.
 
 > "Never put off until tomorrow what you can do today." - Benjamin Franklin
 
-## Surprising Skills
-- I make incredibly bad jokes in French, but also in English. For example: Mr. and Mrs. The World have a son, what do they call him? Aroun, arround the world.
-- I have been very active in the field of sports, and at the ages of 15 and 19, I managed to break two records in long jump and swimming during my high school years.
-- I am a big fan of Walker, Texas Ranger.
+> ## Surprising Skills
+> - I make incredibly bad jokes in French, but also in English. For example: Mr. and Mrs. The World have a son, what do they call him? Aroun, arround the world.
+> - I have been very active in the field of sports, and at the ages of 15 and 19, I managed to break two records in long jump and swimming during my high school years.
+> - I am a big fan of Walker, Texas Ranger.
 
 ## The favorite things in this universe
 - On peut toujours créer, inventer et construire.
@@ -34,8 +34,6 @@ If I were to share a fear about this training, it would be the challenge of find
   <summary>More about Skills
   </summary>
 <h4>Languages ​​/ Frameworks</h4>  
-
-  mettre les img dans un tab
 <img height="20px" src="https://wallpapercave.com/wp/wp5191399.jpg" alt="JS" title="JS"/>&nbsp;&nbsp;
 <img height="20px" src="https://1000marcas.net/wp-content/uploads/2021/06/Sass-Logo-500x313.png" alt="sass" title="sass"/>&nbsp;&nbsp;
 <img height="20px" src="https://i0.wp.com/se-tomo.com/wp/wp-content/uploads/2018/10/Vue.png?resize=1280%2C720&ssl=1" alt="vueJS" title="vueJS"/>&nbsp;&nbsp;
