@@ -5,10 +5,9 @@
 
 You will certainly find new reports very soon so, subscribe!
 
+## Discover my skills
 
-
-## Languages ​​/ Frameworks
-
+### Languages ​​/ Frameworks
 <img height="20px" src="https://wallpapercave.com/wp/wp5191399.jpg" alt="JS" title="JS"/>&nbsp;&nbsp;
 <img height="20px" src="https://1000marcas.net/wp-content/uploads/2021/06/Sass-Logo-500x313.png" alt="sass" title="sass"/>&nbsp;&nbsp;
 <img height="20px" src="https://i0.wp.com/se-tomo.com/wp/wp-content/uploads/2018/10/Vue.png?resize=1280%2C720&ssl=1" alt="vueJS" title="vueJS"/>&nbsp;&nbsp;
@@ -21,7 +20,7 @@ You will certainly find new reports very soon so, subscribe!
 <img height="20px" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*XP-mZOrIqX7OsFInN2ngRQ.png" alt="express" title="express"/>&nbsp;&nbsp;
 <img height="20px" src="https://1000marcas.net/wp-content/uploads/2021/06/Git-Logo-500x313.png" alt="git" title="git"/>&nbsp;&nbsp;
 
-#### Environment
+### Environment
 <img height="20px" src="https://p1.hiclipart.com/preview/354/761/130/visual-studio-code-icon-redesign-for-macos-vscode-blue-and-white-logo-png-clipart.jpg" alt="vscode" title="vscode"/>&nbsp;&nbsp;
 <img height="20px" src="https://maisgeek.com/wp-content/uploads/2020/10/img_5aecaa880ad8d.pagespeed.ce_.r-PeXl_qVa.png" alt="ubuntu" title="ubuntu"/>&nbsp;&nbsp;
 
