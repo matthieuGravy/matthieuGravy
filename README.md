@@ -1,9 +1,17 @@
-# :wave: Hi, I'm Matthieu [![Linkedin](https://img.shields.io/badge/linkedin--lightgrey?style=social&logo=linkedin)](https://www.linkedin.com/in/matthieugravy/)
+# :wave: Hi, I'm Matthieu 
+#### _web developer junior in training at [BeCode](https://becode.org/fr/)._
+
+[![Linkedin](https://img.shields.io/badge/linkedin--lightgrey?style=social&logo=linkedin)](https://www.linkedin.com/in/matthieugravy/)
 
 
->web developer in training at [BeCode](https://becode.org/fr/).   
+Passionate about technology, I have always loved everything related to computers, whether closely or remotely. I dedicated a lot of my time to sports and video games.
 
-You will certainly find new reports very soon so, subscribe!
+Later on, I discovered web development, and eventually, I decided to devote much more of my time to it. I took the time to choose online courses, follow tutorials, and work on various projects. Now, I aim to professionalize myself and share as many projects as possible.
+
+So, follow me, and don't hesitate to reuse what you find.
+
+> "Never put off until tomorrow what you can do today." - Benjamin Franklin
+
 
 ## Discover my skills
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
