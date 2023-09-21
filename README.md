@@ -17,10 +17,10 @@ So, follow me, and don't hesitate to reuse what you find.
 > - I have been very active in the field of sports, and at the ages of 15 and 19, I managed to break two records in long jump and swimming during my high school years.
 > - I am a big fan of Walker, Texas Ranger.
 
-## The favorite things in this universe
-- On peut toujours créer, inventer et construire.
-- J'aime la vie de famille, et je crois que c'est l'un des plus beau cadeau. Je partage beaucoup de moments avec mon fils.
-- 
+> ## The favorite things in this universe
+> - On peut toujours créer, inventer et construire.
+>- J'aime la vie de famille, et je crois que c'est l'un des plus beau cadeau. Je partage beaucoup de moments avec mon fils.
+> - 
 
 ## About me at BeCode
 As a JavaScript enthusiast, I'm keen on enhancing my back-end development skills while continuing to improve my expertise in front-end technologies. My goal is to become a more versatile and well-rounded developer, capable of crafting comprehensive and high-performing solutions, whether on the server or client side. 
