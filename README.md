@@ -13,8 +13,10 @@ So, follow me, and don't hesitate to reuse what you find.
 > "Never put off until tomorrow what you can do today." - Benjamin Franklin
 
 
-## Discover my skills
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             
+<details>
+  <summary>
+    ## Discover my skills 
+  </summary>
 ### Languages ​​/ Frameworks
 <img height="20px" src="https://wallpapercave.com/wp/wp5191399.jpg" alt="JS" title="JS"/>&nbsp;&nbsp;
 <img height="20px" src="https://1000marcas.net/wp-content/uploads/2021/06/Sass-Logo-500x313.png" alt="sass" title="sass"/>&nbsp;&nbsp;
@@ -31,4 +33,7 @@ So, follow me, and don't hesitate to reuse what you find.
 ### Environment
 <img height="20px" src="https://p1.hiclipart.com/preview/354/761/130/visual-studio-code-icon-redesign-for-macos-vscode-blue-and-white-logo-png-clipart.jpg" alt="vscode" title="vscode"/>&nbsp;&nbsp;
 <img height="20px" src="https://maisgeek.com/wp-content/uploads/2020/10/img_5aecaa880ad8d.pagespeed.ce_.r-PeXl_qVa.png" alt="ubuntu" title="ubuntu"/>&nbsp;&nbsp;
+</details>
+                                                                   
+
 
