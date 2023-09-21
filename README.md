@@ -20,14 +20,14 @@ So, follow me, and don't hesitate to reuse what you find.
 > - I am a big fan of Walker, Texas Ranger.
 
 > ### The favorite things in this universe
-> - On peut toujours créer, inventer et construire.
->- J'aime la vie de famille, et je crois que c'est l'un des plus beau cadeau. Je partage beaucoup de moments avec mon fils.
-> - 
+> - We can always create, invent, and build.
+> - Family life.
+> - South Park!
 
 > ### What I appreciate the most in a group
-> - Cheerfulness
-> - Responsiveness
-> - Cooperation
+> - Cheerfulness.
+> - Responsiveness.
+> - Cooperation.
 
 
 <br />
@@ -44,7 +44,7 @@ If I were to share a fear about this training, it would be the challenge of find
   <summary>More about Skills
   </summary>
 <h4>Languages ​​/ Frameworks</h4>  
-<img height="20px" src="https://wallpapercave.com/wp/wp5191399.jpg" alt="JS" title="JS"/>&nbsp;&nbsp;
+<img height="20px" src="https://wallpapercave.com/wp/wp5191399.jpg" alt="JS" title="JS"/>&nbsp;&nbsp; /> <br />
 <img height="20px" src="https://1000marcas.net/wp-content/uploads/2021/06/Sass-Logo-500x313.png" alt="sass" title="sass"/>&nbsp;&nbsp;
 <img height="20px" src="https://i0.wp.com/se-tomo.com/wp/wp-content/uploads/2018/10/Vue.png?resize=1280%2C720&ssl=1" alt="vueJS" title="vueJS"/>&nbsp;&nbsp;
 <img height="20px" src="https://i0.wp.com/innovationyourself.com/wp-content/uploads/2020/08/nodejs-logo.png?resize=752%2C440&ssl=1" alt="nodeJS" title="nodeJS"/>&nbsp;&nbsp;
