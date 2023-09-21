@@ -66,4 +66,4 @@ If I were to share a fear about this training, it would be the challenge of find
 </details>
                                                                    
 
-<div style="width:100%;height:0;padding-bottom:57%;position:relative;"><iframe src="https://giphy.com/embed/Llzk5TKYvgM1i" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/harry-potter-hp-daniel-radcliffe-Llzk5TKYvgM1i">via GIPHY</a></p>
+<img src="http://www.gifbay.com/gif/chuck_norris_approves-22468/" />
