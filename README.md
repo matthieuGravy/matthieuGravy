@@ -71,4 +71,4 @@ If I were to share a fear about this training, it would be the challenge of find
 
 ![chuck]([http://www.gifbay.com/gif/chuck_norris_approves-22468/](https://media.giphy.com/media/BIuuwHRNKs15C/giphy.gif)https://media.giphy.com/media/BIuuwHRNKs15C/giphy.gif "chuck")
 
-![git]([https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif](https://media.giphy.com/media/Lx8lyPHGfdNjq/giphy.gif)https://media.giphy.com/media/Lx8lyPHGfdNjq/giphy.gif "git")
+![git](https://media4.giphy.com/media/k8L9FzAwXJZ16/giphy.gif?cid=ecf05e4742jmmjohgdjaz44z6jh55jmq8yrnzztruq81qsjh&ep=v1_gifs_search&rid=giphy.gif&ct=g "git")
