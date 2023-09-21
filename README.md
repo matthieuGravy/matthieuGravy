@@ -67,3 +67,4 @@ If I were to share a fear about this training, it would be the challenge of find
                                                                    
 
 <img src="http://www.gifbay.com/gif/chuck_norris_approves-22468/" />
+![chuck](http://www.gifbay.com/gif/chuck_norris_approves-22468/ "chuck")
