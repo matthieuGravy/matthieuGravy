@@ -12,9 +12,11 @@ So, follow me, and don't hesitate to reuse what you find.
 
 > "Never put off until tomorrow what you can do today." - Benjamin Franklin
 
-## About My skills
+## About me
+As a JavaScript enthusiast, I'm keen on enhancing my back-end development skills while continuing to improve my expertise in front-end technologies. My goal is to become a more versatile and well-rounded developer, capable of crafting comprehensive and high-performing solutions, whether on the server or client side.
+
 <details>
-  <summary><h2>Discover my skills</h2>
+  <summary><h2></h2>
   </summary>
 <h3>Languages ​​/ Frameworks</h3>  
 <img height="20px" src="https://wallpapercave.com/wp/wp5191399.jpg" alt="JS" title="JS"/>&nbsp;&nbsp;
