@@ -1,4 +1,4 @@
-# :wave: Hi, i'm Matthieu 
+# :wave: Hi, I'm Matthieu 
 [![Linkedin](https://img.shields.io/badge/linkedin--lightgrey?style=social&logo=linkedin)](https://www.linkedin.com/in/matthieugravy/)
 
 >web developer in training at [chez BeCode](https://becode.org/fr/).   
@@ -6,7 +6,7 @@
 You will certainly find new reports very soon so, subscribe!
 
 ## Discover my skills
-
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             
 ### Languages ​​/ Frameworks
 <img height="20px" src="https://wallpapercave.com/wp/wp5191399.jpg" alt="JS" title="JS"/>&nbsp;&nbsp;
 <img height="20px" src="https://1000marcas.net/wp-content/uploads/2021/06/Sass-Logo-500x313.png" alt="sass" title="sass"/>&nbsp;&nbsp;
