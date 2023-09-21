@@ -25,6 +25,7 @@ So, follow me, and don't hesitate to reuse what you find.
 > - 
 
 <br />
+
 ## About me at BeCode
 As a JavaScript enthusiast, I'm keen on enhancing my back-end development skills while continuing to improve my expertise in front-end technologies. My goal is to become a more versatile and well-rounded developer, capable of crafting comprehensive and high-performing solutions, whether on the server or client side. 
 
