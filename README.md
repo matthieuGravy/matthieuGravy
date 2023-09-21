@@ -44,8 +44,10 @@ If I were to share a fear about this training, it would be the challenge of find
   </summary>
    
 <h4>Languages ​​/ Frameworks</h4> 
-## tableau
-<img height="20px" src="https://wallpapercave.com/wp/wp5191399.jpg" alt="JS" title="JS"/><img height="20px" src="https://1000marcas.net/wp-content/uploads/2021/06/Sass-Logo-500x313.png" alt="sass" title="sass"/><img height="20px" src="https://i0.wp.com/se-tomo.com/wp/wp-content/uploads/2018/10/Vue.png?resize=1280%2C720&ssl=1" alt="vueJS" title="vueJS"/><img height="20px" src="https://i0.wp.com/innovationyourself.com/wp-content/uploads/2020/08/nodejs-logo.png?resize=752%2C440&ssl=1" alt="nodeJS" title="nodeJS"/>
+<img height="20px" src="https://wallpapercave.com/wp/wp5191399.jpg" alt="JS" title="JS"/>
+<img height="20px" src="https://1000marcas.net/wp-content/uploads/2021/06/Sass-Logo-500x313.png" alt="sass" title="sass"/>
+<img height="20px" src="https://i0.wp.com/se-tomo.com/wp/wp-content/uploads/2018/10/Vue.png?resize=1280%2C720&ssl=1" alt="vueJS" title="vueJS"/>
+<img height="20px" src="https://i0.wp.com/innovationyourself.com/wp-content/uploads/2020/08/nodejs-logo.png?resize=752%2C440&ssl=1" alt="nodeJS" title="nodeJS"/>
 
 
   <h4>Tools</h4>
@@ -58,6 +60,8 @@ If I were to share a fear about this training, it would be the challenge of find
 <h4>Environment </h4>
 <img height="20px" src="https://p1.hiclipart.com/preview/354/761/130/visual-studio-code-icon-redesign-for-macos-vscode-blue-and-white-logo-png-clipart.jpg" alt="vscode" title="vscode"/>
 <img height="20px" src="https://maisgeek.com/wp-content/uploads/2020/10/img_5aecaa880ad8d.pagespeed.ce_.r-PeXl_qVa.png" alt="ubuntu" title="ubuntu"/>
+<br />
+<br />
 </details>
 
 
