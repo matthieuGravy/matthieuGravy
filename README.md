@@ -31,7 +31,7 @@ If I were to share a fear about this training, it would be the challenge of find
 
 
 <details>
-  <summary><h3>More about Skills</h3>
+  <summary>More about Skills
   </summary>
 <h4>Languages ​​/ Frameworks</h4>  
 
