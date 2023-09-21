@@ -31,7 +31,7 @@ If I were to share a fear about this training, it would be the challenge of find
 
 
 <details>
-  <summary style="bold">More about Skills
+  <summary style="font-weight:bold;">More about Skills
   </summary>
 <h4>Languages ​​/ Frameworks</h4>  
 
