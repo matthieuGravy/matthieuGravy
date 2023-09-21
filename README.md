@@ -39,12 +39,8 @@ I am convinced that BeCode is the perfect place to develop my skills and gain ex
 
 If I were to share a fear about this training, it would be the challenge of finding an internship or the worry that my projects may not be convincing enough. That's why I dedicate myself 200% every day.
 
-
-<details>
-  <summary>More about Skills
-  </summary>
 <h4>Languages ​​/ Frameworks</h4> 
-## test
+## tableau
 <img height="20px" src="https://wallpapercave.com/wp/wp5191399.jpg" alt="JS" title="JS"/><br />
 <img height="20px" src="https://1000marcas.net/wp-content/uploads/2021/06/Sass-Logo-500x313.png" alt="sass" title="sass"/>
   <br />
@@ -63,7 +59,11 @@ If I were to share a fear about this training, it would be the challenge of find
 <h4>Environment </h4>
 <img height="20px" src="https://p1.hiclipart.com/preview/354/761/130/visual-studio-code-icon-redesign-for-macos-vscode-blue-and-white-logo-png-clipart.jpg" alt="vscode" title="vscode"/>
 <img height="20px" src="https://maisgeek.com/wp-content/uploads/2020/10/img_5aecaa880ad8d.pagespeed.ce_.r-PeXl_qVa.png" alt="ubuntu" title="ubuntu"/>
+<details>
+  <summary>More about Skills
+  </summary>
+  
 </details>
                                                                    
 
-
+<div style="width:100%;height:0;padding-bottom:57%;position:relative;"><iframe src="https://giphy.com/embed/Llzk5TKYvgM1i" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/harry-potter-hp-daniel-radcliffe-Llzk5TKYvgM1i">via GIPHY</a></p>
