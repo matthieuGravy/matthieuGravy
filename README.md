@@ -2,9 +2,7 @@
 #### _web developer junior in training at <a href="https://becode.org/fr/">BeCode</a>._
 
 [![Linkedin](https://img.shields.io/badge/linkedin--lightgrey?style=social&logo=linkedin)](https://www.linkedin.com/in/matthieugravy/)
-![Portfolio]([https://img.shields.io/badge/](https://pommepatate.be/:badgeContent)
-![Static Badge](https://img.shields.io/badge/:badgeContent)
-<img alt="Static Badge" src="https://img.shields.io/badge/:badgeContent">
+[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
 
 
 
@@ -54,7 +52,7 @@ If I were to share a fear about this training, it would be the challenge of find
 <img height="20px" src="https://1000marcas.net/wp-content/uploads/2021/06/Sass-Logo-500x313.png" alt="sass" title="sass"/>
 <img height="20px" src="https://i0.wp.com/se-tomo.com/wp/wp-content/uploads/2018/10/Vue.png?resize=1280%2C720&ssl=1" alt="vueJS" title="vueJS"/>
 <img height="20px" src="https://i0.wp.com/innovationyourself.com/wp-content/uploads/2020/08/nodejs-logo.png?resize=752%2C440&ssl=1" alt="nodeJS" title="nodeJS"/>
-<img height="20px" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="express" title="express"/>
+<img height="20px" src="[https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)" alt="express" title="express"/>
 </blockquote>
 </blockquote>
 <blockquote>
