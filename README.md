@@ -5,7 +5,6 @@
 <a href="https://pommepatate.be/"><img height="20px" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="linkedin" title="linkedin"/></a>
 
 
-
 Passionate about technology, I have always loved everything related to computers, whether closely or remotely. I dedicated a lot of my time to sports and video games.
 
 Later on, I discovered web development, and eventually, I decided to devote much more of my time to it. I took the time to choose online courses, follow tutorials, and work on various projects. Now, I aim to professionalize myself and share as many projects as possible.
