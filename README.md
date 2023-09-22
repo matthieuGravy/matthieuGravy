@@ -42,6 +42,7 @@ If I were to share a fear about this training, it would be the challenge of find
 <details>
 <summary>More about Skills
 </summary>
+ <br />
 <blockquote>
 <h4>Languages ​​/ Frameworks</h4> 
 <blockquote>
