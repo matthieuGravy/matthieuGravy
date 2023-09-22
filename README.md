@@ -55,7 +55,7 @@ If I were to share a fear about this training, it would be the challenge of find
 <blockquote>
 <h4>Tools</h4>
 <blockquote>
-<img height="20px" src="http://www.boylesoftware.com/blog/wp-content/uploads/2016/04/400x164_npm_logo.jpg" alt="npm" title="npm"/>
+<img height="20px" src="https://avatars.githubusercontent.com/u/6078720?s=200&v=4" alt="npm" title="npm"/>
 <img height="20px" src="https://miro.medium.com/v2/format:webp/1*gdoQ1_5OID90wf1eLTFvWw.png" alt="webpack" title="webpack"/>
 <img height="20px" src="https://images.ctfassets.net/3prze68gbwl1/asset-17suaysk1qa1i0a/46ad962cd15f56f4d000001e74f4eeb9/Babel-Javascript-compiler.png" alt="babel" title="babel"/>
 <img height="20px" src="https://1000marcas.net/wp-content/uploads/2021/06/Git-Logo-500x313.png" alt="git" title="git"/>
