@@ -1,7 +1,8 @@
 # :wave: Hi, I'm Matthieu 🇧🇪
 #### _web developer junior in training at <a href="https://becode.org/fr/">BeCode</a>._
 
-[![Linkedin](https://img.shields.io/badge/linkedin--lightgrey?style=social&logo=linkedin)](https://www.linkedin.com/in/matthieugravy/)
+[![Linkedin](https://img.shields.io/badge/linkedin--lightgrey?style=social&logo=linkedin)](https://www.linkedin.com/in/matthieugravy/)![Portfolio]([https://img.shields.io/badge/](https://pommepatate.be/):badgeContent)
+
 
 
 Passionate about technology, I have always loved everything related to computers, whether closely or remotely. I dedicated a lot of my time to sports and video games.
