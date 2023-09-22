@@ -1,7 +1,8 @@
 # :wave: Hi, I'm Matthieu 🇧🇪
 #### _web developer junior in training at <a href="https://becode.org/fr/">BeCode</a>._
 
-<a href="https://pommepatate.be/"><img height="20px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" title="linkedin"/></a>
+<a href="https://www.linkedin.com/in/matthieugravy/"><img height="20px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" title="linkedin"/></a>
+<a href="https://pommepatate.be/"><img height="20px" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="linkedin" title="linkedin"/></a>
 
 
 
