@@ -2,7 +2,7 @@
 #### _web developer junior in training at <a href="https://becode.org/fr/">BeCode</a>._
 
 [![Linkedin](https://img.shields.io/badge/linkedin--lightgrey?style=social&logo=linkedin)](https://www.linkedin.com/in/matthieugravy/)
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
+[![linkedin](https://cldup.com/dTxpPi9lDf.thumb.png)](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
 
 
