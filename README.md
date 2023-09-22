@@ -49,6 +49,7 @@ If I were to share a fear about this training, it would be the challenge of find
 <h4>Languages ​​/ Frameworks</h4> 
 <blockquote>
 <img height="20px" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JS" title="JS"/>
+<img height="20px" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" title="bootstrap"/>
 <img height="20px" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="sass" title="sass"/>
 <img height="20px" src="https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="vueJS" title="vueJS"/>
 <img height="20px" src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodeJS" title="nodeJS"/>
@@ -58,11 +59,11 @@ If I were to share a fear about this training, it would be the challenge of find
 <blockquote>
 <h4>Tools</h4>
 <blockquote>
-<img height="20px" src="https://avatars.githubusercontent.com/u/6078720?s=200&v=4" alt="npm" title="npm"/>
-<img height="20px" src="https://miro.medium.com/v2/format:webp/1*gdoQ1_5OID90wf1eLTFvWw.png" alt="webpack" title="webpack"/>
+<img height="20px" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" title="npm"/>
+<img height="20px" src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white" alt="webpack" title="webpack"/>
  <img height="20px" src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" alt="vite" title="vite"/>
-<img height="20px" src="https://images.ctfassets.net/3prze68gbwl1/asset-17suaysk1qa1i0a/46ad962cd15f56f4d000001e74f4eeb9/Babel-Javascript-compiler.png" alt="babel" title="babel"/>
-<img height="20px" src="https://1000marcas.net/wp-content/uploads/2021/06/Git-Logo-500x313.png" alt="git" title="git"/>
+<img height="20px" src="https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=white" alt="babel" title="babel"/>
+<img height="20px" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git" title="git"/>
 </blockquote>
 </blockquote>
  <blockquote>
@@ -70,7 +71,7 @@ If I were to share a fear about this training, it would be the challenge of find
 <blockquote>
  <img height="20px" src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white" alt="vim" title="vim"/>
 <img height="20px" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vscode" title="vscode"/>
-<img height="20px" src="https://maisgeek.com/wp-content/uploads/2020/10/img_5aecaa880ad8d.pagespeed.ce_.r-PeXl_qVa.png" alt="ubuntu" title="ubuntu"/>
+<img height="20px" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="ubuntu" title="ubuntu"/>
 </blockquote>
 </blockquote>
 <br />
