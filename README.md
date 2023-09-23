@@ -22,8 +22,8 @@ So, follow me, and don't hesitate to reuse what you find.
 
 > ### The favorite things in this universe
 > - We can always create, invent, and build.
-> - Family life.
-> - South Park!
+> - Code Quality
+> - Web Performance
 
 > ### What I appreciate the most in a group
 > - Cheerfulness.
