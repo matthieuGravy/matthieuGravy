@@ -53,6 +53,7 @@ If I were to share a fear about this training, it would be the challenge of find
 <img height="20px" src="https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="vueJS" title="vueJS"/>
 <img height="20px" src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodeJS" title="nodeJS"/>
 <img height="20px" src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white" alt="express" title="express"/>
+<img height="20px" src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" alt="json" title="json"/>
 </blockquote>
 </blockquote>
 <blockquote>
