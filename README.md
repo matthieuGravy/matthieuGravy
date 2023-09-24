@@ -40,7 +40,7 @@ I am convinced that BeCode is the perfect place to develop my skills and gain ex
 
 If I were to share a fear about this training, it would be the challenge of finding an internship or the worry that my projects may not be convincing enough. That's why I dedicate myself 200% every day.
 
-<details>
+## <details>
 <summary>More about Skills
 </summary>
  <br />
