@@ -3,15 +3,6 @@
 <a href="https://www.linkedin.com/in/matthieugravy/" target="_blank" title="in/matthieugravy"><img height="20px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" title="linkedin"/></a>
 <a href="https://pommepatate.be/" target="_blank" title="pommepatate.be"><img height="20px" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="pommepatate.be" title="pommepatate.be"/></a>
 
-
-<! -- 
-<img height="250px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=matthieuGravy" />
--->
-
-
-
-
-
 Passionate about technology, I have always loved everything related to computers, whether closely or remotely. I dedicated a lot of my time to sports and video games.
 
 Later on, I discovered web development, and eventually, I decided to devote much more of my time to it. I took the time to choose online courses, follow tutorials, and work on various projects. Now, I aim to professionalize myself and share as many projects as possible.
@@ -47,6 +38,9 @@ I am convinced that BeCode is the perfect place to develop my skills and gain ex
 
 If I were to share a fear about this training, it would be the challenge of finding an internship or the worry that my projects may not be convincing enough. That's why I dedicate myself 200% every day.
 
+## About me on GitHub
+
+<img height="200px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=matthieuGravy" />
 <details>
 <summary>More about Skills
 </summary>
