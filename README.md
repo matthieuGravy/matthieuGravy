@@ -6,10 +6,10 @@
 <imgh height="20px" src="ttps://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FmatthieuGravy1212%2Fhit-counter" />
 
 <img height="250px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=matthieuGravy" />
+<img height="250px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=matthieuGravy" />
+<img height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matthieuGravy" />
 
 
-https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username={username}
-https://github-readme-stats.vercel.app/api/top-langs/?username={username}
 
 
 Passionate about technology, I have always loved everything related to computers, whether closely or remotely. I dedicated a lot of my time to sports and video games.
