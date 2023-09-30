@@ -2,6 +2,7 @@
 #### _web developer junior in training at <a href="https://becode.org/fr/">BeCode</a>._
 <a href="https://www.linkedin.com/in/matthieugravy/" target="_blank" title="in/matthieugravy"><img height="20px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" title="linkedin"/></a>
 <a href="https://pommepatate.be/" target="_blank" title="pommepatate.be"><img height="20px" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="pommepatate.be" title="pommepatate.be"/></a>
+<a href="https://matthieuGravy.github.io/" target="_blank" title="matthieuGravy.github.io"><img height="20px" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="matthieuGravy.github.io" title="pommepatate.be"/></a>
 
 Passionate about technology, I have always loved everything related to computers, whether closely or remotely. I dedicated a lot of my time to sports and video games.
 
