@@ -3,6 +3,7 @@
 
 <a href="https://www.linkedin.com/in/matthieugravy/"><img height="20px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" title="linkedin"/></a>
 <a href="https://pommepatate.be/"><img height="20px" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="pommepatate.be" title="pommepatate.be"/></a>
+<a href=""><img height="20px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=matthieuGravy" /></a>
 
 
 Passionate about technology, I have always loved everything related to computers, whether closely or remotely. I dedicated a lot of my time to sports and video games.
