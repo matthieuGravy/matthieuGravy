@@ -7,7 +7,7 @@
 
 <img height="200px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=matthieuGravy" />
 <img height="250px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=matthieuGravy" />
-<img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matthieuGravy" />
+<img height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matthieuGravy" />
 
 
 
