@@ -53,6 +53,9 @@ If I were to share a fear about this training, it would be the challenge of find
 ## About me on GitHub
 
 <img height="200px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=matthieuGravy" />
+<br />
+<br />
+
 <details>
 <summary>More about Skills
 </summary>
