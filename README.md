@@ -3,7 +3,8 @@
 <a href="https://www.linkedin.com/in/matthieugravy/" target="_blank" title="in/matthieugravy"><img height="20px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" title="linkedin"/></a>
 <a href="https://pommepatate.be/" target="_blank" title="pommepatate.be"><img height="20px" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="pommepatate.be" title="pommepatate.be"/></a>
 <a href="https://matthieuGravy.github.io/" target="_blank" title="matthieuGravy.github.io"><img height="20px" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="matthieuGravy.github.io" title="pommepatate.be"/></a>
-
+<br/>
+<br/>
 Passionate about technology, I have always loved everything related to computers, whether closely or remotely. I dedicated a lot of my time to sports and video games.
 
 Later on, I discovered web development, and eventually, I decided to devote much more of my time to it. I took the time to choose online courses, follow tutorials, and work on various projects. Now, I aim to professionalize myself and share as many projects as possible.
@@ -12,18 +13,19 @@ So, follow me, and don't hesitate to reuse what you find.
 
 > "Never put off until tomorrow what you can do today." - Benjamin Franklin
 
-<br />
-
+<br/>
+<br/>
 > ### Surprising Skills
 > - I make incredibly bad jokes in French, but also in English. For example: Mr. and Mrs. The World have a son, what do they call him? Aroun, arround the world.
 > - I have been very active in the field of sports, and at the ages of 15 and 19, I managed to break two records in long jump and swimming during my high school years.
 > - I am a big fan of Walker, Texas Ranger.
 
+<br />
 > ### The favorite things in this universe
 > - We can always create, invent, and build.
 > - Code Quality
 > - Web Performance
-
+<br />
 > ### What I appreciate the most in a group
 > - Cheerfulness.
 > - Responsiveness.
