@@ -1,5 +1,5 @@
 # :wave: Hi, I'm Matthieu 🇧🇪
-#### _web developer junior in training at <a href="https://becode.org/fr/">BeCode</a>._ <a href="https://www.codewars.com/users/matthieuGravy/" target="_blank" title="codewars matthieuGravy"><img height="40px" src="https://www.codewars.com/users/matthieuGravy/badges/large" alt="matthieu gravy codewars" title="codewars"/></a>
+####  <a href="https://www.codewars.com/users/matthieuGravy/" target="_blank" title="codewars matthieuGravy"><img height="40px" src="https://www.codewars.com/users/matthieuGravy/badges/large" alt="matthieu gravy codewars" title="codewars"/></a> _web developer junior in training at <a href="https://becode.org/fr/">BeCode</a>._
 
 
 
