@@ -3,8 +3,7 @@
 <a href="https://www.linkedin.com/in/matthieugravy/" target="_blank" title="in/matthieugravy"><img height="20px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" title="linkedin"/></a>
 <a href="https://pommepatate.be/" target="_blank" title="pommepatate.be"><img height="20px" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="pommepatate.be" title="pommepatate.be"/></a>
 <a href="https://matthieuGravy.github.io/" target="_blank" title="matthieuGravy.github.io"><img height="20px" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="matthieuGravy.github.io" title="pommepatate.be"/></a>
-
-https://www.codewars.com/users/matthieuGravy/badges/large
+<a href="https://www.codewars.com/users/matthieuGravy/" target="_blank" title="codewars matthieuGravy"><img height="20px" src="https://www.codewars.com/users/matthieuGravy/badges/large" alt="matthieu gravy codewars" title="codewars"/></a>
 
 <br/>
 <br/>
