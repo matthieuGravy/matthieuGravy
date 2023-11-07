@@ -57,9 +57,12 @@ If I were to share a fear about this training, it would be the challenge of find
 <br />
 
 <details>
-<summary>More about Skills  <a href="https://www.codewars.com/users/matthieuGravy/" target="_blank" title="codewars matthieuGravy"><img height="30px" src="https://www.codewars.com/users/matthieuGravy/badges/large" alt="matthieu gravy codewars" title="codewars"/></a>
+<summary>More about Skills  
 </summary>
-
+ <br />
+ 
+ > <a href="https://www.codewars.com/users/matthieuGravy/" target="_blank" title="codewars matthieuGravy"><img height="30px" src="https://www.codewars.com/users/matthieuGravy/badges/large" alt="matthieu gravy codewars" title="codewars"/></a>
+ 
  <br />
 <blockquote>
 <h4>Languages ​​/ Frameworks</h4> 
