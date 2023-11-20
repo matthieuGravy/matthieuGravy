@@ -1,8 +1,7 @@
 # :wave: Hi, I'm Matthieu 🇧🇪
 #### _web developer junior in training at <a href="https://becode.org/fr/">BeCode</a>._
 
-<a href="https://www.linkedin.com/in/matthieugravy/" target="_blank" title="in/matthieugravy"><img height="20px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" title="linkedin"/></a> <a href="https://matthieuGravy.github.io/" target="_blank" title="matthieuGravy.github.io"><img height="20px" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="matthieuGravy.github.io" title="matthieuGravy.github.io"/></a>
-
+<a href="https://www.linkedin.com/in/matthieugravy/" target="_blank" title="in/matthieugravy"><img height="20px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" title="linkedin"/></a> 
 
 <br/>
 <br/>
@@ -14,6 +13,10 @@ Later on, I discovered web development, and eventually, I decided to devote much
 So, follow me, and don't hesitate to reuse what you find.
 
 > "Never put off until tomorrow what you can do today." - Benjamin Franklin
+
+####  📈 Project in progress
+
+<a href="https://github.com/matthieuGravy/restaurant-react-daisyui-tailwind">Juste here <a/>
 
 <br/>
 <br/>
