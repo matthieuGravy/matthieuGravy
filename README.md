@@ -20,7 +20,7 @@ So, follow me, and don't hesitate to reuse what you find.
 
 ####  📈 Project in progress
 
-<a href="https://github.com/matthieuGravy/restaurant-react-daisyui-tailwind">Juste here <a/>
+<a href="https://github.com/matthieuGravy/restaurant-react-daisyui-tailwind">Just here <a/>
 
 <br/>
 <br/>
