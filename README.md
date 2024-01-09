@@ -20,7 +20,9 @@ So, follow me, and don't hesitate to reuse what you find.
 
 ####  📈 Project in progress
 
-<a href="https://github.com/matthieuGravy/restaurant-react-daisyui-tailwind">Just here <a/>
+I am currently working on a back-end project using Express, TypeScript, and MongoDB.
+
+<a href="https://github.com/matthieuGravy/book-face">Just here <a/>
 
 <br/>
 <br/>
