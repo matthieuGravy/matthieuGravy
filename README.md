@@ -1,110 +1,73 @@
-# :wave: Hi, I'm Matthieu 🇧🇪
-#### _web developer junior in training at <a href="https://becode.org/fr/">BeCode</a>._
+# Matthieu Gravy - Front-End Web Developer
 
-<a href="https://www.linkedin.com/in/matthieugravy/" target="_blank" title="in/matthieugravy"><img height="20px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" title="linkedin"/></a> 
+## Introduction
 
-<br/>
-<br/>
+:wave: Hello, I'm Matthieu Gravy, a passionate junior web developer currently undergoing intensive training at [BeCode](https://becode.org/fr/). My interest in technology naturally led me to explore web development, where I focus on the front-end while seeking to understand the back-end to enhance my skills.
 
-Passionate about technology, I have always loved everything related to computers, whether closely or remotely. I dedicated a lot of my time to sports and video games.
+Connect with me on [LinkedIn](https://www.linkedin.com/in/matthieugravy/)
 
-Later on, I discovered web development, and eventually, I decided to devote much more of my time to it. I took the time to choose online courses, follow tutorials, and work on various projects. Now, I aim to professionalize myself and share as many projects as possible.
+## Current Project
 
-So, follow me, and don't hesitate to reuse what you find.
+I am currently involved in a stimulating back-end project using Express, TypeScript, and MongoDB. This experience allows me to deepen my understanding of the back-end, thereby enhancing my versatility as a front-end developer. You can explore the ongoing project [here](https://github.com/matthieuGravy/book-face).
 
 > "Never put off until tomorrow what you can do today." - Benjamin Franklin
 
+## Unique Skills and Achievements
 
-<br/>
-<br/>
+- I infuse humor into code and conversations, delivering punchlines in both English and French.
+- Achieved sports excellence by breaking two high school records in long jump and swimming.
+- A fervent admirer of Walker, Texas Ranger.
 
-####  📈 Project in progress
+## Core Values
 
-I am currently working on a back-end project using Express, TypeScript, and MongoDB.
+My work is anchored in three fundamental principles:
 
-<a href="https://github.com/matthieuGravy/book-face">Just here <a/>
+1. **Innovation:** The joy of creating and building fuels my commitment to the ever-evolving technological landscape.
+2. **Quality Code:** A staunch advocate for clean and efficient code, prioritizing maintainability and scalability.
+3. **Web Performance:** Passionate about optimizing web applications for an exceptional user experience.
 
-<br/>
-<br/>
+## Collaborative Approach
 
-> ### Surprising Skills
-> - I make incredibly bad jokes in French, but also in English. For example: Mr. and Mrs. The World have a son, what do they call him? Aroun, arround the world.
-> - I have been very active in the field of sports, and at the ages of 15 and 19, I managed to break two records in long jump and swimming during my high school years.
-> - I am a big fan of Walker, Texas Ranger.
+In a collaborative environment, I value:
 
-<br />
+- **Good Humor:** Fostering a positive and dynamic work environment.
+- **Responsiveness:** Swift adaptability to challenges and changes.
+- **Cooperation:** Embracing teamwork and collective success.
 
-> ### The favorite things in this universe
-> - We can always create, invent, and build.
-> - Code Quality
-> - Web Performance
+## Journey at BeCode
 
-<br />
-
-> ### What I appreciate the most in a group
-> - Cheerfulness.
-> - Responsiveness.
-> - Cooperation.
+My pronounced interest in front-end development is complemented by a desire to understand the back-end for a holistic view of web development. BeCode represents the ideal platform for this journey, offering the perfect blend of hands-on experience and collaborative learning.
 
 
-<br />
-<br />
+## Technical Proficiency
 
-## About me at BeCode
-As a JavaScript enthusiast, I'm keen on enhancing my back-end development skills while continuing to improve my expertise in front-end technologies. My goal is to become a more versatile and well-rounded developer, capable of crafting comprehensive and high-performing solutions, whether on the server or client side. 
+### Front-End Languages / Frameworks
 
-I am convinced that BeCode is the perfect place to develop my skills and gain experience working in groups.
-
-If I were to share a fear about this training, it would be the challenge of finding an internship or the worry that my projects may not be convincing enough. That's why I dedicate myself 200% every day.
-<br />
-<br />
-
-## About me on GitHub
-
-<img height="200px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=matthieuGravy" />
-<br />
-<br />
-
-<details>
-<summary>More about Skills  
-</summary>
- <br />
- 
- > <a href="https://www.codewars.com/users/matthieuGravy/" target="_blank" title="codewars matthieuGravy"><img height="30px" src="https://www.codewars.com/users/matthieuGravy/badges/large" alt="matthieu gravy codewars" title="codewars"/></a>
-<blockquote>
-<h4>Languages ​​/ Frameworks</h4> 
-<blockquote>
-<img height="30px" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JS" title="JS"/>
-<img height="30px" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" title="bootstrap"/>
-<img height="30px" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="sass" title="sass"/>
-<img height="30px" src="https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="vueJS" title="vueJS"/>
-<img height="30px" src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodeJS" title="nodeJS"/>
-<img height="30px" src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white" alt="express" title="express"/>
-<img height="30px" src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" alt="json" title="json"/>
-</blockquote>
-</blockquote>
-<blockquote>
-<h4>Tools</h4>
-<blockquote>
-<img height="30px" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" title="npm"/>
-<img height="30px" src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white" alt="webpack" title="webpack"/>
-<img height="30px" src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" alt="vite" title="vite"/>
-<img height="30px" src="https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=white" alt="babel" title="babel"/>
-<img height="30px" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git" title="git"/>
-</blockquote>
-</blockquote>
- <blockquote>
-<h4>Environment </h4>
-<blockquote>
-<img height="30px" src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white" alt="vim" title="vim"/>
-<img height="30px" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vscode" title="vscode"/>
-<img height="30px" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="ubuntu" title="ubuntu"/>
-</blockquote>
-</blockquote>
- <img height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matthieuGravy" />
-<br />
-<br />
-</details>
+- React.js
+- Vue.js
+- JavaScript
+- Tailwind
+- Daisy UI
+- Bootstrap
+- Sass
 
 
-![git](https://media4.giphy.com/media/k8L9FzAwXJZ16/giphy.gif?cid=ecf05e4742jmmjohgdjaz44z6jh55jmq8yrnzztruq81qsjh&ep=v1_gifs_search&rid=giphy.gif&ct=g "git")
+### Understanding of Back-End
+
+- Node.js
+- Express.js
+- MongoDB
+- TypeScript
+
+### Tools
+
+- npm
+- Vite
+- Git
+
+### Development Environment
+
+- Visual Studio Code
+- Ubuntu
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=matthieuGravy)](https://github.com/matthieuGravy)
