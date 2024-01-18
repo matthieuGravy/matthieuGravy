@@ -68,6 +68,6 @@ My pronounced interest in front-end development is complemented by a desire to u
 ### Development Environment
 
 - Visual Studio Code
-- Ubuntu
+- Ubuntu / Mac OS
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=matthieuGravy)](https://github.com/matthieuGravy)
