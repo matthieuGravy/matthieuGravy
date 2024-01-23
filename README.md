@@ -8,7 +8,7 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/matthieugravy/)
 
 ## Current Project
 
-I am currently involved in a stimulating back-end project using Express, TypeScript, and MongoDB. This experience allows me to deepen my understanding of the back-end, thereby enhancing my versatility as a front-end developer. You can explore the ongoing project [here](https://github.com/matthieuGravy/book-face).
+I am currently involved in an exciting MERN project using TypeScript. This experience allows me to deepen my understanding of full-stack development with MongoDB, Express, React, and Node.js, thereby enhancing my versatility as a developer [here](https://github.com/matthieuGravy/freshshop).
 
 > "Never put off until tomorrow what you can do today." - Benjamin Franklin
 
