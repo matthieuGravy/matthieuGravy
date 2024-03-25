@@ -2,9 +2,12 @@
 
 ## Introduction
 
-:wave: Hello, I'm Matthieu Gravy, a passionate junior web developer currently undergoing intensive bootcamp at [BeCode](https://becode.org/fr/). My interest in technology naturally led me to explore web development, where I focus on the front-end while seeking to understand the back-end to enhance my skills.
+:wave: Hello, I'm Matthieu Gravy, a passionate web developer currently in the final intensive bootcamp at [BeCode](https://becode.org/fr/). My interest in technology naturally led me to explore web development, where I focus on the front-end while seeking to understand the back-end to enhance my skills.
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/matthieugravy/)
+
+Show my [portfolio](https://itsgravy.dev/)
+
 
 
 ### Front-End Languages / Frameworks
