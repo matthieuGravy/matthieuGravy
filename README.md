@@ -1,4 +1,4 @@
-:wave: Hello, I'm Matthieu,
+# :wave: Hello, I'm Matthieu,
 
 ## _Some news about me_
 
