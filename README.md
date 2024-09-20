@@ -14,8 +14,6 @@ I'm supporting Walter Clayton's project, which aims to create a platform that co
 ### Turbo, Next
 I'm currently working on a project with Turbo, and hopefully, it will be completed by October.
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=matthieuGravy)](https://github.com/matthieuGravy)
-
 ![Matthieu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=matthieuGravy&show_icons=true&theme=radical)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=matthieuGravy&layout=compact)](https://github.com/matthieuGravy)
