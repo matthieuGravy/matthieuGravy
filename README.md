@@ -4,7 +4,7 @@
 
 ### Panicmode
 I'm creating a library with TypeScript and UI components. You can check it out here, contributions are welcome:
-- [npm - panicmode](https://www.npmjs.com/package/panicmode/v/0.1.0)
+- [npm - panicmode](https://www.npmjs.com/package/panicmode/v/0.2.4)
 - [GitHub - panicmode](https://github.com/matthieuGravy/panicmode)
 - [GitHub - wait for docs you show here how use this package](https://github.com/matthieuGravy/panicmode-doc)
 - [live is here](https://panicmode-example.vercel.app/)
