@@ -42,8 +42,7 @@ Continuously enhancing my portfolio with new features and projects.
 
 ## 🤝 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](Your_LinkedIn_URL)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white)](Your_Twitter_URL)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-4285F4?style=flat-square&logo=Google-chrome&logoColor=white)](Your_Portfolio_URL)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/matthieugravy/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-4285F4?style=flat-square&logo=Google-chrome&logoColor=white)](https://itsgravy.dev/)
 
 Feel free to reach out if you want to collaborate on a project or just chat about tech!
