@@ -15,7 +15,7 @@ I'm developing a TypeScript library with UI components. Contributions are welcom
 Supporting Walter Clayton's project to create a platform combining sustainable fashion with African wildlife conservation.
 - [🌍 Akwanza Website](https://www.akwanza.com/)
 - [🌍 About Walter Clayton](https://www.walterclayton.com/)
-- [🎁 Support here](https://akwanza.teemill.com/)
+- [🎁 Support Here](https://akwanza.teemill.com/)
 
 ### Turbo & Next.js Project
 Working on an exciting project using Turbo and Next.js, aiming for completion by October.
