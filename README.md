@@ -1,9 +1,9 @@
 # 👋 Hello, I'm Matthieu
-
 I'm a passionate developer who loves to code and create innovative solutions!
 
-## 🚀 Current Projects
+[![Profile Views](https://komarev.com/ghpvc/?username=matthieuGravy&color=blue&style=flat)](https://github.com/antonkomarev/github-profile-views-counter)
 
+## 🚀 Current Projects
 ### PanicMode
 I'm developing a TypeScript library with UI components. Contributions are welcome!
 - [📦 npm package](https://www.npmjs.com/package/panicmode/v/0.2.4)
@@ -27,7 +27,6 @@ Improving projects with my friend [Han](https://github.com/iota07). Peer review 
 Continuously enhancing my portfolio with new features and projects.
 
 ## 💻 Tech Stack
-
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
@@ -38,13 +37,10 @@ Continuously enhancing my portfolio with new features and projects.
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
 ## 📊 GitHub Stats
-
 ![Matthieu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=matthieuGravy&show_icons=true&theme=radical)
-
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=matthieuGravy&layout=compact&theme=radical)](https://github.com/matthieuGravy)
 
 ## 🤝 Let's Connect!
-
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/matthieugravy/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-4285F4?style=flat-square&logo=Google-chrome&logoColor=white)](https://itsgravy.dev/)
 
