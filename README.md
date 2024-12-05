@@ -1,10 +1,10 @@
 # 👋 Hello, I'm Matthieu
 
-Passionate frontend developer with a strong focus on TypeScript and React, and growing backend skills. I'm currently **available for freelance projects**!
+Passionate Full-stack developer with a strong focus on TypeScript and React, and growing backend skills. I'm currently **available for freelance projects**!
 
 ## 👨‍💻 About Me
 
-- 🚀 Frontend specialist with experience in modern JavaScript frameworks
+- 🚀 Full-stack with experience in modern JavaScript frameworks
 - 💼 **Open for freelance opportunities and exciting projects**
 - 💡 Enthusiastic about TypeScript, React, and Next.js
 - 🌱 Continuously expanding my skills, including backend development with Node.js and Express
@@ -13,10 +13,9 @@ Passionate frontend developer with a strong focus on TypeScript and React, and g
 
 ## 🏆 Key Achievements
 
-- 📦 Developed PanicMode, a TypeScript library for UI components
+- 📦 Developed PanicMode, a TypeScript library for UI components from Daisy-ui
 - 🌍 Contributing frontend expertise to Akwanza, combining sustainable fashion with wildlife conservation
-- 🚀 Building an exciting project with Next.js and Express (completion expected by October)
-- 👥 Active in collaborative learning and peer review in web development
+- 🚀 Building an exciting project with Next.js
 
 ## 🚀 Current Projects
 
@@ -34,7 +33,7 @@ Contributing frontend development to Walter Clayton's project, creating a platfo
 - [🎁 Support Here](https://akwanza.teemill.com/)
 
 ### Next.js and Express Project
-Working on an exciting full-stack project using Next.js for frontend and Express for backend, aiming for completion by October.
+Working on an exciting full-stack project using Next.js.
 
 ### Collaborative Learning
 Improving web development projects with my friend [Han](https://github.com/iota07). Peer review and collaborative learning in action!
@@ -74,4 +73,4 @@ Continuously enhancing my portfolio with new features and projects, showcasing b
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/matthieugravy/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-4285F4?style=flat-square&logo=Google-chrome&logoColor=white)](https://itsgravy.dev/)
 
-🔍 **Currently available for freelance projects!** Feel free to reach out if you're looking for a skilled frontend developer or if you want to collaborate on an exciting web development project. Let's create something amazing together!
+🔍 **Currently available for freelance projects!** Feel free to reach out if you're looking for a full-stack developer or if you want to collaborate on an exciting web development project. Let's create something amazing together!
