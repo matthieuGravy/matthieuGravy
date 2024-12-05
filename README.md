@@ -9,7 +9,6 @@ Passionate Full-stack developer with a strong focus on TypeScript and React, and
 - 💡 Enthusiastic about TypeScript, React, and Next.js
 - 🌱 Continuously expanding my skills, including backend development with Node.js and Express
 - 🤝 Strong believer in collaborative development and peer learning
-- 🌍 Interested in projects with social and environmental impact
 
 ## 🏆 Key Achievements
 
