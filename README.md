@@ -8,37 +8,7 @@ Passionate Full-stack developer with a strong focus on TypeScript and React, and
 - 💼 **Open for freelance opportunities and exciting projects**
 - 💡 Enthusiastic about TypeScript, React, and Next.js
 - 🌱 Continuously expanding my skills, including backend development with Node.js and Express
-- 🤝 Strong believer in collaborative development and peer learning
 
-## 🏆 Key Achievements
-
-- 📦 Developed PanicMode, a TypeScript library for UI components from Daisy-ui
-- 🌍 Contributing frontend expertise to Akwanza, combining sustainable fashion with wildlife conservation
-- 🚀 Building an exciting project with Next.js
-
-## 🚀 Current Projects
-
-### PanicMode
-TypeScript library with UI components. Contributions welcome!
-- [📦 npm package](https://www.npmjs.com/package/panicmode/v/0.2.4)
-- [🐙 GitHub repository](https://github.com/matthieuGravy/panicmode)
-- [📚 Documentation (Coming Soon)](https://github.com/matthieuGravy/panicmode-doc)
-- [🖥️ Live demo](https://panicmode-example.vercel.app/)
-
-### Akwanza
-Contributing frontend development to Walter Clayton's project, creating a platform combining sustainable fashion with African wildlife conservation.
-- [🌍 Akwanza Website](https://www.akwanza.com/)
-- [🌍 About Walter Clayton](https://www.walterclayton.com/)
-- [🎁 Support Here](https://akwanza.teemill.com/)
-
-### Next.js and Express Project
-Working on an exciting full-stack project using Next.js.
-
-### Collaborative Learning
-Improving web development projects with my friend [Han](https://github.com/iota07). Peer review and collaborative learning in action!
-
-### Portfolio
-Continuously enhancing my portfolio with new features and projects, showcasing both frontend and backend skills.
 
 ## 💻 Tech Stack
 
