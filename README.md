@@ -40,6 +40,6 @@ Passionate Full-stack developer with a strong focus on TypeScript and React, and
 
 ## 🤝 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/matthieugravy/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-4285F4?style=flat-square&logo=Google-chrome&logoColor=white)](https://itsgravy.dev/)
+[![Website](https://img.shields.io/badge/-Portfolio-4285F4?style=flat-square&logo=Google-chrome&logoColor=white)](https://www.matthieugravy.dev/fr/)
 
 🔍 **Currently available for freelance projects!** Feel free to reach out if you're looking for a full-stack developer or if you want to collaborate on an exciting web development project. Let's create something amazing together!
