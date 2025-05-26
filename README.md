@@ -1,44 +1,112 @@
 # 👋 Hello, I'm Matthieu
 
-Passionate Full-stack developer with a strong focus on TypeScript and React, and growing backend skills. I'm currently **available for freelance projects**!
+Full-stack developer from Belgium. I create web solutions that work in real life for real businesses.
 
-## 👨‍💻 About Me
+## 🎯 My Background
 
-- 🚀 Full-stack with experience in modern JavaScript frameworks
-- 💼 **Open for freelance opportunities and exciting projects**
-- 💡 Enthusiastic about TypeScript, React, and Next.js
-- 🌱 Continuously expanding my skills, including backend development with Node.js and Express
+I'm not a typical developer. Before coding, I worked in security and management. This experience helps me understand what businesses really need.
 
+- 🔍 **I listen first, then code** - Your problems are more important than technical details
+- 🏗️ **Smart foundations** - I use proven solutions and adapt them to your needs
+- 🌍 **Local focus** - I work with small businesses in Belgium (Wallonia-Brussels)
+- 🤝 **Human approach** - Technology should be simple for people to use
+
+## 💼 What I Offer
+
+### Vision Corporate
+Professional websites with solid foundations, customized for your business.
+
+### Project Evolution  
+I improve existing websites instead of rebuilding everything - cheaper and safer.
+
+### Open Source
+I share useful tools and code with the developer community.
+
+## 💻 Technologies I Use
+
+**Frontend:** TypeScript, React, Next.js, Tailwind CSS  
+**Backend:** Node.js, Express  
+**Special skills:** Multi-language websites, fast performance, easy-to-use interfaces
+
+## 🗣️ Languages
+- 🇫🇷 French (Native)
+- 🇬🇧 English (Good level)
+- 🇳🇱 Dutch (Learning)
+
+## 📈 GitHub Stats
+
+![Matthieu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=matthieuGravy&show_icons=true&theme=radical&count_private=true)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=matthieuGravy&layout=compact&theme=radical)](https://github.com/matthieuGravy)
+
+## 🌟 Projects Coming Soon
+
+- Vision Corporate template
+- Multi-language form tools  
+- Small business web tools
+
+## 📝 My Articles
+
+- "Why I became a developer after working in security"
+- "How to build websites that people actually use"
+- "Custom development vs templates: how to choose"
+
+*Read more on [LinkedIn](https://www.linkedin.com/in/matthieugravy/)*
+
+## 🤝 Contact
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/matthieugravy/)
+[![Website](https://img.shields.io/badge/-Website-000000?style=flat-square&logo=vercel&logoColor=white)](https://matthieugravy.dev)
+
+---
+
+💡 **I help small businesses in Belgium build websites that make sense for their customers.**  
+📍 Brussels, Belgium 🇧🇪� What I Do
+
+### Vision Corporate
+Solid foundation for professional web presence, adapted to your specific needs and identity.
+
+### Project Evolution
+Improving existing websites rather than starting from scratch - more economical, less risky.
+
+### Open Source Contributions
+Sharing knowledge and tools with the community through practical, well-documented projects.
 
 ## 💻 Tech Stack
 
-### Frontend
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+**Frontend:** TypeScript, React, Next.js, Tailwind CSS  
+**Backend:** Node.js, Express  
+**Focus:** Multilingual applications, performance optimization, human-centered UX
 
-### Backend
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
+## 🗣️ Languages
+- 🇫🇷 French (Native)
+- 🇬🇧 English (Professional)
+- 🇳🇱 Dutch (Learning)
 
-### Tools
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![pnpm](https://img.shields.io/badge/-pnpm-F69220?style=flat-square&logo=pnpm&logoColor=white)
-![npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm&logoColor=white)
-![Yarn](https://img.shields.io/badge/-Yarn-2C8EBB?style=flat-square&logo=yarn&logoColor=white)
-![AI Assistant](https://img.shields.io/badge/-AI_Assistant-4B0082?style=flat-square&logo=openai&logoColor=white)
+## 📈 GitHub Activity
 
-## 📊 GitHub Stats
-![Matthieu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=matthieuGravy&show_icons=true&theme=radical)
+![Matthieu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=matthieuGravy&show_icons=true&theme=radical&count_private=true)
+
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=matthieuGravy&layout=compact&theme=radical)](https://github.com/matthieuGravy)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=matthieuGravy&theme=radical)](https://git.io/streak-stats)
+## 🌟 Featured Projects
 
-## 🤝 Let's Connect!
+*Coming soon: Vision Corporate template, multilingual form generators, and SME-focused tools*
+
+## 📝 Latest Articles
+
+- "Why I chose development after security and management"
+- "The human approach to web development"
+- "Vision Corporate vs custom development: when to choose what?"
+
+*Read more on [LinkedIn](https://www.linkedin.com/in/matthieugravy/)*
+
+## 🤝 Let's Connect
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/matthieugravy/)
+[![Website](https://img.shields.io/badge/-Website-000000?style=flat-square&logo=vercel&logoColor=white)](https://matthieugravy.dev)
 
-🔍 **Currently available for freelance projects!** Feel free to reach out if you're looking for a full-stack developer or if you want to collaborate on an exciting web development project. Let's create something amazing together!
+---
+
+💡 **Working with Belgian SMEs who need web solutions that actually make sense for their business.**  
+Based in Brussels, Belgium 🇧🇪
