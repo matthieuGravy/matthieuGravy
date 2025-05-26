@@ -39,19 +39,7 @@ I share useful tools and code with the developer community.
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=matthieuGravy&layout=compact&theme=radical)](https://github.com/matthieuGravy)
 
-## 🌟 Projects Coming Soon
 
-- Vision Corporate template
-- Multi-language form tools  
-- Small business web tools
-
-## 📝 My Articles
-
-- "Why I became a developer after working in security"
-- "How to build websites that people actually use"
-- "Custom development vs templates: how to choose"
-
-*Read more on [LinkedIn](https://www.linkedin.com/in/matthieugravy/)*
 
 ## 🤝 Contact
 
