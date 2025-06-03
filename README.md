@@ -22,6 +22,9 @@ I improve existing websites instead of rebuilding everything - cheaper and safer
 ### Open Source
 I share useful tools and code with the developer community.
 
+[![Love On The Route](https://img.shields.io/npm/v/love-on-the-route?style=flat-square&logo=npm&label=love-on-the-route&color=CB3837)](https://www.npmjs.com/package/love-on-the-route)  
+**Love On The Route** - The 3 annoying things solved for vanilla JS/TS SPAs: routing, navigation & SEO
+
 ## 💻 Technologies I Use
 
 **Frontend:** TypeScript, React, Next.js, Tailwind CSS  
@@ -39,7 +42,14 @@ I share useful tools and code with the developer community.
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=matthieuGravy&layout=compact&theme=radical)](https://github.com/matthieuGravy)
 
+## ❤️ Supporting Good Causes
 
+[![Akwanza](https://img.shields.io/badge/Supporting-Akwanza-4CAF50?style=flat-square&logo=leaf&logoColor=white)](https://www.akwanza.com/)
+[![Akwanza ft Teemill Shop](https://img.shields.io/badge/Shop-Akwanza%20Collection-FF6B35?style=flat-square&logo=shopping-cart&logoColor=white)](https://akwanza.teemill.com/collection/paul-a-tribute-to-a-timeless-soul/)
+
+I believe in using technology to make a positive impact. I contribute to **Akwanza** - sustainable fashion supporting African wildlife conservation through the Big Life Foundation. Every purchase helps protect elephants, lions, and other majestic species.
+
+*Founded by [Walter Clayton](https://www.walterclayton.com/blog), Akwanza combines eco-friendly fashion with direct conservation action.*
 
 ## 🤝 Contact
 
