@@ -23,7 +23,7 @@ I improve existing websites instead of rebuilding everything - cheaper and safer
 I share useful tools and code with the developer community.
 
 [![Love On The Route](https://img.shields.io/npm/v/love-on-the-route?style=flat-square&logo=npm&label=love-on-the-route&color=CB3837)](https://www.npmjs.com/package/love-on-the-route)  
-[logo-Love On The Route]((https://github.com/matthieuGravy/love-on-the-route/blob/main/assets/love-on-the-route.png)
+[logo-Love On The Route](https://github.com/matthieuGravy/love-on-the-route/blob/main/assets/love-on-the-route.png)
 **Love On The Route** - The 3 annoying things solved for vanilla JS/TS SPAs: routing, navigation & SEO
 
 ## 💻 Technologies I Use
