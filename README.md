@@ -33,6 +33,7 @@ Full-stack developer from Belgium. I create web solutions that work in real life
 [![npm version](https://img.shields.io/npm/v/love-on-the-route?style=flat-square&logo=npm&label=version)](https://www.npmjs.com/package/love-on-the-route)
 [![npm downloads](https://img.shields.io/npm/dm/love-on-the-route?style=flat-square&logo=npm)](https://www.npmjs.com/package/love-on-the-route)
 [![license](https://img.shields.io/npm/l/love-on-the-route?style=flat-square)](https://github.com/matthieuGravy/love-on-the-route/blob/main/LICENSE)
+[📚 Documentation](https://love-on-the-route.matthieugravy.dev/fr) | [💻 GitHub](https://github.com/matthieuGravy/love-on-the-route)
 
 ### <b>Love On The Route</b>
 <sub>The 3 annoying things solved for vanilla JS/TS SPAs: <b>routing, navigation & SEO</b></sub>
