@@ -49,7 +49,7 @@ Full-stack developer from Belgium. I create web solutions that work in real life
 |-----------------------|------------|---------------------------------|
 | TypeScript, javascript | Node.js    | Multi-language websites         |
 | React, Next.js, Vue 3, Astro        | Express, Fastify    | Fast performance                |
-| Tailwind CSS          |            | Easy-to-use interfaces          |
+| CSS, Sass, Tailwind CSS, Bootstrap          |            | Easy-to-use interfaces          |
 | Motion, GSAP         |              | Animations                   |
 
 ---
