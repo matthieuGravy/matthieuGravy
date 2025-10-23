@@ -4,7 +4,7 @@ Dev web basé en Belgique
 
 ---
 
-## 💼 Ce que je fais
+## Ce que je fais
 
 ### 🎯 [Offre Budget](https://budget.matthieugravy.dev/)
 Sites pro de démarrage à 500€ HTVA · 2 pages · Livraison 48h  
@@ -14,12 +14,13 @@ Pour tester votre activité ou être en ligne rapidement.
 Sites adaptés à vos besoins, avec de vraies fondations.  
 Évolution de sites existants ou projets complets.
 
-### 🚀 Open Source
-Je partage mes outils avec la communauté dev.
+
+
 
 ---
 
 <div align="center">
+### 🚀 Open Source
 
 <img src="https://github.com/matthieuGravy/love-on-the-route/blob/main/assets/love-on-the-route.png?raw=true" alt="Love On The Route logo" width="120" />
 
@@ -30,6 +31,8 @@ Je partage mes outils avec la communauté dev.
   <br/>
 
 [📚 Documentation](https://love-on-the-route.matthieugravy.dev/fr) | [💻 GitHub](https://github.com/matthieuGravy/love-on-the-route)
+
+</div>
 
 
 ---
@@ -46,9 +49,9 @@ Je partage mes outils avec la communauté dev.
 ---
 
 ## 🗣️ Langues
-- 🇫🇷 Français (Langue maternelle)
-- 🇬🇧 Anglais (Bon niveau)
-- 🇳🇱 Néerlandais (En apprentissage)
+🇫🇷 Français (Langue maternelle) <br />
+🇬🇧 Anglais (Bon niveau) <br />
+🇳🇱 Néerlandais (En apprentissage)
 
 ---
 
@@ -62,12 +65,10 @@ Je partage mes outils avec la communauté dev.
 
 ---
 
-## Un projet sympa de Walter Clayton
+## Un impact positif 
 
 [![Akwanza](https://img.shields.io/badge/Soutien-Akwanza-4CAF50?style=flat-square&logo=leaf&logoColor=white)](https://www.akwanza.com/)
 [![Akwanza ft Teemill Shop](https://img.shields.io/badge/Shop-Collection%20Akwanza-FF6B35?style=flat-square&logo=shopping-cart&logoColor=white)](https://akwanza.teemill.com/collection/paul-a-tribu)
-
-> C'était une contribution et l'occasion d'avoir un impact positif avec la tech
 
 > <sub>Fondé par [Walter Clayton](https://www.walterclayton.com/blog), Akwanza combine mode éco-responsable et action pour la conservation.</sub>
 
