@@ -6,16 +6,13 @@ Dev web basé en Belgique
 
 ## Ce que je fais
 
-### 🎯 [Offre Budget](https://budget.matthieugravy.dev/)
+### [Offre Budget](https://budget.matthieugravy.dev/)
 Sites pro de démarrage à 500€ HTVA · 2 pages · Livraison 48h  
 Pour tester votre activité ou être en ligne rapidement.
 
-### 🏢 [Solutions sur-mesure](https://www.matthieugravy.dev/)
+### [Solutions sur-mesure](https://www.matthieugravy.dev/)
 Sites adaptés à vos besoins, avec de vraies fondations.  
 Évolution de sites existants ou projets complets.
-
-
-
 
 ---
 
