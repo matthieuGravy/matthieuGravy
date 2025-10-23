@@ -20,7 +20,10 @@ Sites adaptés à vos besoins, avec de vraies fondations.
 ---
 
 <div align="center">
+  
 ### 🚀 Open Source
+
+<br/>
 
 <img src="https://github.com/matthieuGravy/love-on-the-route/blob/main/assets/love-on-the-route.png?raw=true" alt="Love On The Route logo" width="120" />
 
